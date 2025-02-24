@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/portfolio": "pages/api/portfolio.js",
+  "/": "pages/index.html",
+  "/resume": "pages/resume.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
